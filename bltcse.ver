@@ -1,10 +1,10 @@
 {
 "payday2blt":{
 	"name":"Payday 2 BLT: Club Sandwich Edition",
-	"date":"2015-04-04 08:34:00",
+	"date":"2015-04-13 11:26:00",
 	"author":"Olipro",
-	"revision":"2",
-	"revision_id":"2",
+	"revision":"3",
+	"revision_id":"3",
 	"download_url":"https://raw.github.com/HoxHud/BLT-CSE-bin/master/PD2BLTCSELua.zip"
 	}
 }
